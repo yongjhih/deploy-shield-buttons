@@ -1,8 +1,12 @@
 # github badger
 
-Deploy bdage with button.
+Deploy badge with button.
 
-* Support badges templdate
+* Support badge template
+* Support badge rank
+* Support badge template rank
+* Support commit badge
+* Support commit badge template
 
 Parse Dashboard for example:
 
