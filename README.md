@@ -1,6 +1,8 @@
-# deploy-shield-buttons
+# github badger
 
-Deploy shield with button
+Deploy bdage with button.
+
+* Support badges templdate
 
 Parse Dashboard for example:
 
