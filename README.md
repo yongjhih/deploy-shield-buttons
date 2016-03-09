@@ -10,6 +10,8 @@ Deploy badge with button.
 * Support badge template rank
 * Support commit badge
 * Support commit badge template
+* Support auto detect need badges (.travis.yml, Dockerfile, build.gradle, gradle.properties, LICENSE.txt)
+* Support .githubadger config file for template, etc.
 
 Parse Dashboard for example:
 
