@@ -2,6 +2,7 @@
 
 [![Githubadger](https://avatars3.githubusercontent.com/u/17733859?v=3&s=48)](https://github.com/githubadger)
 
+
 Deploy badge with button.
 
 * Support badge template
@@ -22,3 +23,9 @@ Parse Dashboard for example:
 
 [![Deploy to Docker Cloud](https://github.com/yongjhih/docker-parse-server/raw/master/art/deploy-to-docker-cloud.png)](https://cloud.docker.com/stack/deploy/?repo=https://github.com/yongjhih/docker-parse-dashboard)
 [![Deploy to Tutum](https://s.tutum.co/deploy-to-tutum.svg)](https://dashboard.tutum.co/stack/deploy/?repo=https://github.com/yongjhih/docker-parse-dashboard)
+
+## Githubadger oauth
+
+Application name: GitHub Badger - githubadger (318413)
+
+client id: b4a594d0ad6baaffbcd8
